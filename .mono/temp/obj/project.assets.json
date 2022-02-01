@@ -1,0 +1,123 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.1": {
+      "Cryptography.ECDSA.Secp256K1/1.1.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Cryptography.ECDSA.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Cryptography.ECDSA.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Newtonsoft.Json.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cryptography.ECDSA.Secp256K1/1.1.3": {
+      "sha512": "imHmS/4npo6AzcUA7KpXehZIUq8h7iBRJsvEK/pwH6ysVJUow7bWft9yrODSgq5SYuFm8aYhsSCODFvDKq7dUQ==",
+      "type": "package",
+      "path": "cryptography.ecdsa.secp256k1/1.1.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "cryptography.ecdsa.secp256k1.1.1.3.nupkg.sha512",
+        "cryptography.ecdsa.secp256k1.nuspec",
+        "lib/netstandard2.0/Cryptography.ECDSA.dll"
+      ]
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "sha512": "IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "type": "package",
+      "path": "newtonsoft.json/11.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.11.0.2.nupkg.sha512",
+        "newtonsoft.json.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.1": [
+      "Cryptography.ECDSA.Secp256k1 >= 1.1.3",
+      "Newtonsoft.Json >= 11.0.2"
+    ]
+  },
+  "packageFolders": {
+    "/Users/sterlinglong/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/GodotFioSDK.csproj",
+      "projectName": "GodotFioSDK",
+      "projectPath": "/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/GodotFioSDK.csproj",
+      "packagesPath": "/Users/sterlinglong/.nuget/packages/",
+      "outputPath": "/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/.mono/temp/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/sterlinglong/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net471"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net471": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net471": {
+        "dependencies": {
+          "Cryptography.ECDSA.Secp256k1": {
+            "target": "Package",
+            "version": "[1.1.3, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[11.0.2, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
