@@ -21,3 +21,6 @@
 /Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/.mono/temp/bin/Debug/System.Xml.XPath.XDocument.dll
 /Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/.mono/temp/obj/Debug/GodotFioSDK.csproj.CopyComplete
 /Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/.mono/temp/bin/Debug/Cryptography.ECDSA.dll
+/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/.mono/temp/bin/Debug/nunit.framework.dll
+/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/.mono/temp/obj/Debug/GodotFioSDK.csproj.AssemblyReference.cache
+/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/.mono/temp/obj/Debug/GodotFioSDK.GeneratedMSBuildEditorConfig.editorconfig

@@ -5,23 +5,6 @@ using System.Text;
 
 public static class NumericHelpers
 {
-  public static List<byte> HexToUint8Array(string hex) 
-  {
-      if (hex.Length % 2 == 1) {
-          throw new Exception("Odd number of hex digits");
-      }
-      int l = hex.Length / 2;
-      List<byte> result = new List<byte>(l);
-      for (int i = 0; i < l; ++i) {
-          byte x = Byte.Parse(hex.Substring(i * 2, 2));
-          // if (x.) {
-          //     throw new Exception("Expected hex string");
-          // }
-          result[i] = x;
-      }
-      return result;
-  }
-
   const string base58Chars = "123456789ABCDEFGHJKLMNPQRSTUVWXYZabcdefghijkmnopqrstuvwxyz";
   const string base64Chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
 

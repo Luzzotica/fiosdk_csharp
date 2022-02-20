@@ -1,0 +1,12 @@
+/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/obj/Debug/net6.0/ECC.csproj.AssemblyReference.cache
+/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/obj/Debug/net6.0/ECC.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/obj/Debug/net6.0/ECC.AssemblyInfoInputs.cache
+/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/obj/Debug/net6.0/ECC.AssemblyInfo.cs
+/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/obj/Debug/net6.0/ECC.csproj.CoreCompileInputs.cache
+/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/bin/Debug/net6.0/ECC.deps.json
+/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/bin/Debug/net6.0/ECC.dll
+/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/bin/Debug/net6.0/ref/ECC.dll
+/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/bin/Debug/net6.0/ECC.pdb
+/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/obj/Debug/net6.0/ECC.dll
+/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/obj/Debug/net6.0/ref/ECC.dll
+/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/obj/Debug/net6.0/ECC.pdb

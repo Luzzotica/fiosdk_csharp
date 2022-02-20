@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC.Tests/ECC.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC.Tests/ECC.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC.Tests/ECC.Tests.csproj",
+        "projectName": "ECC.Tests",
+        "projectPath": "/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC.Tests/ECC.Tests.csproj",
+        "packagesPath": "/Users/sterlinglong/.nuget/packages/",
+        "outputPath": "/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sterlinglong/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/ECC.csproj": {
+                "projectPath": "/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/ECC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/ECC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/ECC.csproj",
+        "projectName": "ECC",
+        "projectPath": "/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/ECC.csproj",
+        "packagesPath": "/Users/sterlinglong/.nuget/packages/",
+        "outputPath": "/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/FIOSDK/Util/ECC/ECC/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sterlinglong/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
