@@ -14,12 +14,13 @@
         "outputPath": "/Users/sterlinglong/NonCloud/FIO/GodotFIOSDK/.mono/temp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/sterlinglong/.nuget/NuGet/NuGet.Config"
+          "/Users/sterlinglong/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net471"
         ],
         "sources": {
+          "/Users/sterlinglong/NonCloud/FIO/fio-sharp/FioSharp/FioSharp/bin/Debug": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,30 +39,16 @@
         "net471": {
           "targetAlias": "net471",
           "dependencies": {
-            "Cryptography.ECDSA.Secp256k1": {
-              "target": "Package",
-              "version": "[1.1.3, )"
-            },
-            "Microsoft.NETFramework.ReferenceAssemblies": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.0.2, )",
-              "autoReferenced": true
-            },
             "NUnit": {
               "target": "Package",
-              "version": "[3.13.2, )"
+              "version": "[3.13.3, )"
             },
-            "NUnit.Console": {
+            "fio-sharp": {
               "target": "Package",
-              "version": "[3.15.0, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[11.0.2, )"
+              "version": "[1.0.3, )"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Library/Frameworks/Mono.framework/Versions/6.12.0/lib/mono/msbuild/Current/bin/RuntimeIdentifierGraph.json"
         }
       }
     }
